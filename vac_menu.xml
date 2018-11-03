@@ -1,0 +1,13 @@
+<application>
+  <widget text="Vacuum" function="DoDisplay" />
+  <widget text="Cutoff Pressure" function="SetCutoff" />
+  <widget text="Tare" function="DoTare" />
+  <folder text="Units &#126;">
+    <widget text="Back &#127;" function="DoBack" />
+    <widget text="in-Hg" function="SetinHg" />
+    <widget text="mm-Hg" function="SetmmHg" />
+    <widget text="psi" function="Setpsi" />
+  </folder>
+  <widget text="Reboot" function="DoReboot" />
+  <widget text="Shutdown" function="DoShutdown" />
+</application>
