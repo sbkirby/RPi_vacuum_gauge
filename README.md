@@ -166,3 +166,7 @@ This will bring the crontab window as seen above. Navigate to the end of the fil
 @reboot sh /home/pi/Vac_Sensor/launcher.sh >/home/pi/logs/cronlog 2>&1
 ```
 Exit and save the file, and reboot the RPi. The script should start the vac_sensor.py script after the RPi reboots. The status of the script can be checked in the log files located in the /logs folder.
+
+## Operational Instructions
+
+For Operational Instructions visit [Digital Vacuum Regulator](https://www.instructables.com/id/Digital-Vacuum-Regulator/) on Instructables.
