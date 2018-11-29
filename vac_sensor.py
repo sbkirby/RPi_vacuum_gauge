@@ -12,7 +12,6 @@ from string import split
 from time import sleep, strftime, localtime
 from datetime import datetime, timedelta
 from xml.dom.minidom import *
-from ListSelector import ListSelector
 
 import smbus
 
